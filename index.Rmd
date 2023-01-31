@@ -17,7 +17,7 @@ output:
   postcards::trestles
 ---
 
-## Bio
+## About me
 
 PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/). My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
 
