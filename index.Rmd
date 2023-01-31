@@ -1,0 +1,52 @@
+---
+title: "Gerry McQuade"
+image: "avatar2.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/GerryMcQu"
+  - label: GitHub
+    url: "https://github.com/gerrymcquade"
+  - label: Email
+    url: "mailto:g.mcquade1@lancaster.ac.uk"
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: LU profile
+    url: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/). My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
+
+I will be a visiting student at ODID, University of Oxford, during trinity term 2023.
+
+Long suffering Scottish rugby fan.
+
+## Education
+
+**Lancaster University** | Lancaster, UK
+
+PhD Economics | 2020 -
+
+**University of Edinburgh** | Edinburgh, UK
+
+MSc Economics (Scottish Graduate Program in Economics) | 2019 - 2020
+
+**Heriot Watt University** | Edinburgh, UK
+
+MA Economics | 2015 - 2019
+
+## Experience
+
+**Research assistant to Simon Franklin** | April 2022 - Present
+
+**Young Lives** | Research Consultant | March 2021 - September 2021 
+
+**Young Lives** | Research Assistant | June 2020 - September 2020
+
+**Office for National Statistics** | Statistical Officer | May 2019 - September 2019
+
+**Health Economics Research Unit, University of Aberdeen** | Research Intern | June 2018 - August 2018
