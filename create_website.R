@@ -25,4 +25,10 @@ distill::create_article(file = "postcard",
 
 #|TO MAKE POSTCARD THE HOMEPAGE: paste YAML "site: distill::distill_website" from 
 #|index.rmd into the YAML header of postcard.rmd. then rename index.rmd as blog.rmd
-#|and rename postcard.rmd as index.rmd,
+#|and rename postcard.rmd as index.rmd.
+
+#|While distill doesn't allow changes to the overall website structure, we can 
+#|change the theme a little, choosing colors and fonts to personalize the website.
+
+#Themes in distill are based on the CSS language. create a file called theme.css:
+distill::create_theme()

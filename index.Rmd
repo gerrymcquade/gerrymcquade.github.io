@@ -2,13 +2,13 @@
 title: "Gerry McQuade"
 image: "avatar2.jpg"
 links:
-  - label: Twitter
+  - label: '`r fontawesome::fa("twitter", height = "25px")`'
     url: "https://twitter.com/GerryMcQu"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", height = "25px")`'
     url: "https://github.com/gerrymcquade"
-  - label: Email
-    url: "mailto:g.mcquade1@lancaster.ac.uk"
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:g.mcquade1@lancaster.ac.uk" 
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
     url: "https://linkedin.com/"
   - label: LU profile
     url: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade"
@@ -16,7 +16,7 @@ site: distill::distill_website
 output:
   postcards::trestles
 ---
- 
+
 ## Bio
 
 PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/). My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
