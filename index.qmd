@@ -1,6 +1,7 @@
 ---
 title: "Gerald McQuade"
 image: avatar.jpeg
+resources: /_extensions/mcanouil/iconify/*
 about:
   id: hero-heading
   template: trestles
