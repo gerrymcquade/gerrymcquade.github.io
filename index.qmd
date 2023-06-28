@@ -1,7 +1,6 @@
 ---
 title: "Gerald McQuade"
 image: avatar.jpeg
-resources: /_extensions/mcanouil/iconify/*
 about:
   id: hero-heading
   template: trestles
@@ -34,5 +33,3 @@ My research interests are in early childhood development and skill formation, th
 I am currently a visiting student with Young Lives at the University of Oxford, hosted by [Marta Favara](https://sites.google.com/site/martafavara/). In winter 2023 I will be a visiting researcher with Grupo De Análisis para el Desarrollo, in Lima, Peru.
 
 you can view my full CV [here](https://gerrymcquade.github.io/cv/GM_cv.pdf).
-
-Proudly {{< iconify flagpack gb-sct >}}.
