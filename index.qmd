@@ -1,0 +1,35 @@
+---
+title: "Gerald McQuade"
+image: avatar.jpeg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:g.mcquade1@lancaster.ac.uk"
+    - icon: file-text
+      text: CV
+      href: "https://gerrymcquade.github.io/cv/GM_cv.pdf"  
+    - icon: mortarboard
+      text: LUMS
+      href: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade" 
+    - icon: twitter
+      text: Twitter
+      href: "https://twitter.com/GerryMcQu"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/gerald-mcquade-63193b172/"
+    - icon: github
+      text: Github
+      href: "https://github.com/gerrymcquade"      
+---
+
+PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade). My advisors are [Catherine Porter](https://sites.google.com/site/econcath/home) and [Saurabh Singhal](https://sites.google.com/site/singhalecon/Home).
+
+My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
+
+I am currently a visiting student with Young Lives at the University of Oxford, hosted by [Marta Favara](https://sites.google.com/site/martafavara/). In winter 2023 I will be a visiting researcher with Grupo De Análisis para el Desarrollo, in Lima, Peru.
+
+you can view my full CV [here](https://gerrymcquade.github.io/cv/GM_cv.pdf).

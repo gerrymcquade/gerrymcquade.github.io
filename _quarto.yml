@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  site-url: "gerrymcquade.github.io"
+  title: "Gerald McQuade"
+  search: false
+  navbar:
+    right:
+      - href: index.qmd
+        text: About
+      - href: CV_page.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
+      - href: https://github.com/gerrymcquade
+        icon: github
+      
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+
