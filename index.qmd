@@ -34,4 +34,4 @@ I am currently a visiting student with Young Lives at the University of Oxford, 
 
 you can view my full CV [here](https://gerrymcquade.github.io/cv/GM_cv.pdf).
 
-Proudly {{< iconify flag:gb-sct-4x3 >}}.
+Proudly {{< iconify flagpack gb-sct >}}.
