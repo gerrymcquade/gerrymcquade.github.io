@@ -11,10 +11,13 @@ about:
       href: "mailto:g.mcquade1@lancaster.ac.uk"
     - icon: file-text
       text: CV
-      href: "https://gerrymcquade.github.io/cv/GM_cv.pdf"  
+      href: "https://gerrymcquade.github.io/cv/GM_cv_nonac.pdf"  
     - icon: mortarboard
       text: LUMS
-      href: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade" 
+      href: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade"
+    - icon: building
+      text: GRADE
+      href: "https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/"
     - icon: twitter
       text: Twitter
       href: "https://twitter.com/GerryMcQu"
@@ -30,6 +33,6 @@ PhD candidate in economics at [Lancaster University Management School](https://w
 
 My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
 
-I am currently a visiting student with Young Lives at the University of Oxford, hosted by [Marta Favara](https://sites.google.com/site/martafavara/). In winter 2023 I will be a visiting researcher with Grupo De Análisis para el Desarrollo, in Lima, Peru.
+I am currently a visiting researcher with Grupo De Análisis para el Desarrollo, in Lima, Peru (see my [profile here](https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/)). Previously, I was a visiting researcher with Young Lives at the University of Oxford during Trinity & Summer Term 2023, hosted by [Marta Favara](https://sites.google.com/site/martafavara/).
 
-You can view my full CV [here](https://gerrymcquade.github.io/cv/GM_cv.pdf).
+You can view my CV here: [non-academic](https://gerrymcquade.github.io/cv/GM_cv_nonac.pdf) and [academic](https://gerrymcquade.github.io/cv/GM_cv.pdf).

@@ -2,9 +2,9 @@
 title: "CV"
 ---
 
-click [here](https://gerrymcquade.github.io/cv/GM_cv.pdf) to view my full CV.
+View my full CV here: [non-academic](https://gerrymcquade.github.io/cv/GM_cv_nonac.pdf) and [academic](https://gerrymcquade.github.io/cv/GM_cv.pdf).
 
---------------
+------------------------------------------------------------------------
 
 #### Education
 
@@ -24,7 +24,7 @@ click [here](https://gerrymcquade.github.io/cv/GM_cv.pdf) to view my full CV.
 
 *Advisors: Robert Mochrie*
 
---------------
+------------------------------------------------------------------------
 
 #### Research Experience
 
@@ -40,18 +40,18 @@ click [here](https://gerrymcquade.github.io/cv/GM_cv.pdf) to view my full CV.
 
 **Health Economics Research Unit** \| *Aberdeen, UK* \| Research Intern \| 2018
 
---------------
+------------------------------------------------------------------------
 
 #### Teaching
 
-**Lancaster University** | 2021 - 2022
+**Lancaster University** \| 2021 - 2022
 
--   Applied Economics (ECON229) | Seminars
+-   Applied Economics (ECON229) \| Seminars
 
--   Quantitative Methods for Economics (ECON 103) | Additional Workshops
+-   Quantitative Methods for Economics (ECON 103) \| Additional Workshops
 
-**Heriot Watt University** | 2019 - 2020
+**Heriot Watt University** \| 2019 - 2020
 
--   Intermediate Microeconomics (C28IN) | Workshops
+-   Intermediate Microeconomics (C28IN) \| Workshops
 
--   Econometrics Project (C29EJ) | Labs
+-   Econometrics Project (C29EJ) \| Labs
