@@ -14,6 +14,10 @@ website:
         text: CV
       - href: research.qmd
         text: Research
+      - text: Tutorials
+        menu: 
+          - href: multi_panel_table.qmd
+            text: "Stata-to-LaTeX: Multi-panel esttab tables"
       - href: https://github.com/gerrymcquade
         icon: github
       

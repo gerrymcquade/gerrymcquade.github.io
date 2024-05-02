@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>gerrymcquade.github.io/index.html</loc>
-    <lastmod>2024-04-23T00:08:33.781Z</lastmod>
+    <lastmod>2024-05-02T00:23:08.065Z</lastmod>
   </url>
   <url>
     <loc>gerrymcquade.github.io/CV_page.html</loc>
@@ -19,5 +19,9 @@
   <url>
     <loc>gerrymcquade.github.io/teaching.html</loc>
     <lastmod>2023-06-28T21:37:54.457Z</lastmod>
+  </url>
+  <url>
+    <loc>gerrymcquade.github.io/mulit_panel_table.html</loc>
+    <lastmod>2024-05-02T00:18:01.754Z</lastmod>
   </url>
 </urlset>
