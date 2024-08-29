@@ -10,13 +10,13 @@ resources: "[GM]earlyliferainfall_personalitytraits_0623.pdf"
 
 -   **"A sound methodology: Measuring experiences of violent conflict through audio self-interviews"** Economic Letters, 2024. - *with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara* [\[Paper\]](https://doi.org/10.1016/j.econlet.2024.111879) [\[Blog\]](https://www.younglives.org.uk/news/a-sound-methodology) [\[Podcast\]](https://podcasts.ox.ac.uk/how-sound-methodology-improves-understanding-young-ethiopians-experience-conflict)
 
-**Research Papers**
+**Working papers**
 
 -   Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [\[Draft\]](%5BGM%5Dearlyliferainfall_personalitytraits_0623.pdf)
 
 -   Additional returns of extending the school day: Estimating sibling spillovers using a regression discontinuity design - *with Catherine Porter & Alan Sanchez*
 
--   Think of the children: Inter-generational effects of drought exposure on offspring outcomes
+-   Inter-generational effects of drought exposure on offspring outcomes
 
 **Technical Notes**
 
@@ -40,11 +40,7 @@ resources: "[GM]earlyliferainfall_personalitytraits_0623.pdf"
 
 #### Conference Presentations
 
-**2024**
-
-- NWSSDTP PhD Conference in Economics
-
-**2023**
+**2023 - 2024**
 
 -   14th Bolivian Conference on Development Economics; Conferencia Internacional de Desarrollo Económico PUCP; 2nd International Conference on Development Economics; 36th European Society of Population Economics conference; 1st Welfare and Policy conference; Inaugural Essex PhD Conference in Applied Economics; NWSSDTP PhD Conference in Economics; Lancaster Applied Micro Workshop; 12th Summer School in Development Economics Workshop (*invited*)
 
