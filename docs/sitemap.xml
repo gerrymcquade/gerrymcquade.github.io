@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>gerrymcquade.github.io/research.html</loc>
+    <lastmod>2024-08-29T15:14:51.596Z</lastmod>
+  </url>
+  <url>
     <loc>gerrymcquade.github.io/index.html</loc>
-    <lastmod>2024-05-02T00:43:53.435Z</lastmod>
+    <lastmod>2024-08-29T15:03:31.791Z</lastmod>
   </url>
   <url>
     <loc>gerrymcquade.github.io/CV_page.html</loc>
-    <lastmod>2023-11-30T22:54:22.127Z</lastmod>
-  </url>
-  <url>
-    <loc>gerrymcquade.github.io/research.html</loc>
-    <lastmod>2024-05-02T00:44:09.931Z</lastmod>
-  </url>
-  <url>
-    <loc>gerrymcquade.github.io/talks.html</loc>
-    <lastmod>2023-06-28T21:25:24.920Z</lastmod>
-  </url>
-  <url>
-    <loc>gerrymcquade.github.io/teaching.html</loc>
-    <lastmod>2023-06-28T21:37:54.457Z</lastmod>
-  </url>
-  <url>
-    <loc>gerrymcquade.github.io/mulit_panel_table.html</loc>
-    <lastmod>2024-05-02T00:18:01.754Z</lastmod>
+    <lastmod>2024-08-29T15:24:27.924Z</lastmod>
   </url>
   <url>
     <loc>gerrymcquade.github.io/multi_panel_table.html</loc>
-    <lastmod>2024-05-02T00:43:58.661Z</lastmod>
+    <lastmod>2024-05-02T00:04:43.665Z</lastmod>
   </url>
 </urlset>

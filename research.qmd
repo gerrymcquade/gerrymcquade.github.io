@@ -6,19 +6,21 @@ resources: "[GM]earlyliferainfall_personalitytraits_0623.pdf"
 
 #### Academic work
 
+**Peer-reviewed publications**
+
+-   **"A sound methodology: Measuring experiences of violent conflict through audio self-interviews"** Economic Letters, 2024. - *with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara* [\[Paper\]](https://doi.org/10.1016/j.econlet.2024.111879) [\[Blog\]](https://www.younglives.org.uk/news/a-sound-methodology) [\[Podcast\]](https://podcasts.ox.ac.uk/how-sound-methodology-improves-understanding-young-ethiopians-experience-conflict)
+
 **Research Papers**
 
--   Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru \[[Draft](%5BGM%5Dearlyliferainfall_personalitytraits_0623.pdf)\]
+-   Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [\[Draft\]](%5BGM%5Dearlyliferainfall_personalitytraits_0623.pdf)
 
 -   Additional returns of extending the school day: Estimating sibling spillovers using a regression discontinuity design - *with Catherine Porter & Alan Sanchez*
 
 -   Think of the children: Inter-generational effects of drought exposure on offspring outcomes
 
--   A sound methodology: Measuring experiences of violent conflict through audio self-interviews - _with Sophie von Russdorf, Laura Ahlborn, Alessandra Hidalgo & Marta Favara_
-
 **Technical Notes**
 
--   Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series \| Young Lives \| *with Marta Favara* \[[link](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)\]
+-   Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series \| Young Lives \| *with Marta Favara* [\[Report\]](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)
 
 -   Selection and validation of socio-emotional skill measures in round 5 of the Young Lives survey \| Young Lives \| *with Catherine Porter, Marta Favara & Mark Mitchell*
 
@@ -28,15 +30,19 @@ resources: "[GM]earlyliferainfall_personalitytraits_0623.pdf"
 
 **Statistical bulletins**
 
--   Deaths related to drug poisoning in England and Wales: 2018 registrations -- ONS - *with Emyr John & Asim Butt* \[[link](https://cy.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2018registrations)\]
+-   Deaths related to drug poisoning in England and Wales: 2018 registrations -- ONS - *with Emyr John & Asim Butt* [\[Report\]](https://cy.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/deathsrelatedtodrugpoisoninginenglandandwales/2018registrations)
 
 **Software**
 
--   *sideytab:* a module for producing sideways esttab tables \[[Github repository](https://github.com/gerrymcquade/sideytab)\]
+-   *sideytab:* a module for producing sideways esttab tables [\[Github repository\]](https://github.com/gerrymcquade/sideytab)
 
 ------------------------------------------------------------------------
 
 #### Conference Presentations
+
+**2024**
+
+- NWSSDTP PhD Conference in Economics
 
 **2023**
 
