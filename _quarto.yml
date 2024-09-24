@@ -29,4 +29,6 @@ format:
     toc: true
 
 editor: visual
+callout-appearance: simple
+callout-icon: false
 

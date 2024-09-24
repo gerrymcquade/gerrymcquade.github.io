@@ -1,5 +1,5 @@
 ---
-title: "Gerald McQuade"
+#title: "Gerald McQuade"
 image: avatar.jpeg
 about:
   id: hero-heading
@@ -11,7 +11,7 @@ about:
       href: "mailto:g.mcquade1@lancaster.ac.uk"
     - icon: file-text
       text: CV
-      href: "https://gerrymcquade.github.io/cv/GM_cv_nonac.pdf"  
+      href: "https://gerrymcquade.github.io/cv/GM_cv.pdf"  
     - icon: mortarboard
       text: LUMS
       href: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade"
