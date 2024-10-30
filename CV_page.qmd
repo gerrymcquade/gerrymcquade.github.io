@@ -28,13 +28,15 @@ View my full CV here: [non-academic](https://gerrymcquade.github.io/cv/GM_cv_non
 
 #### Research Experience
 
+**Lancaster University** \| *Lancaster, UK* \| Teaching Associate \| 2024-
+
 **Grupo De Análisis para el Desarrollo** \| *Lima, Peru* \| Visiting Researcher \| Winter 2023
 
 **Queen Mary University London** \| *London, UK* \| RA to Simon Franklin \| 2022
 
 **Young Lives** \| *Oxford, UK* \| Research Consultant \| 2021 - 2023
 
-**Young Lives** \| *Oxford, UK* \| Research Assistant \| 2020
+**Lancaster University** \| *Lancaster, UK* \| RA to Catherine Porter \| 2020
 
 **Office for National Statistics** \| *Newport, UK* \| Statistical Research Officer \| 2019
 
@@ -44,16 +46,20 @@ View my full CV here: [non-academic](https://gerrymcquade.github.io/cv/GM_cv_non
 
 #### Teaching
 
-**Lancaster University** \| 2021 - 2022
+**Lancaster University** \| 2021 - 2024
 
--   Applied Economics (ECON229) \| Seminars
+-   Communicating Using Economic Data (ECON104) \| Seminars \| 2024-2025
 
--   Quantitative Methods for Economics (ECON 103) \| Additional Workshops
+-   EconHub \| Undergraduate helpdesk and revision sessions \| 2024-2025
 
--   LUMS Maths and Statistics Hub \| 1-to-1 Workshops
+-   Applied Economics (ECON229) \| Seminars \| 2021-2022
+
+-   Quantitative Methods for Economics (ECON 103) \| Additional workshops \| 2022
+
+-   LUMS Maths and Statistics Hub \| 1-to-1 Workshops \| 2021-2022
 
 **Heriot Watt University** \| 2019 - 2020
 
--   Intermediate Microeconomics (C28IN) \| Workshops
+-   Intermediate Microeconomics (C28IN) \| Workshops \| 2019-2020
 
--   Econometrics Project (C29EJ) \| Labs
+-   Econometrics Project (C29EJ) \| Labs \| 2019

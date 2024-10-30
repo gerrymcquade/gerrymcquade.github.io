@@ -29,7 +29,7 @@ about:
       href: "https://github.com/gerrymcquade"      
 ---
 
-PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade). My advisors are [Catherine Porter](https://sites.google.com/site/econcath/home) and [Saurabh Singhal](https://sites.google.com/site/singhalecon/Home).
+Teaching Associate and PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade). My advisors are [Catherine Porter](https://sites.google.com/site/econcath/home) and [Saurabh Singhal](https://sites.google.com/site/singhalecon/Home).
 
 My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
 
