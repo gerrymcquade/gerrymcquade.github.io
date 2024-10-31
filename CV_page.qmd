@@ -2,7 +2,7 @@
 title: "CV"
 ---
 
-View my full CV here: [non-academic](https://gerrymcquade.github.io/cv/GM_cv_nonac.pdf) and [academic](https://gerrymcquade.github.io/cv/GM_cv.pdf).
+View [my full CV here](https://gerrymcquade.github.io/cv/GM_cv.pdf).
 
 ------------------------------------------------------------------------
 

@@ -19,15 +19,7 @@ This paper investigates the impact of different survey administration methods on
 -   Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [\[Draft\]](%5BGM%5Dearlyliferainfall_personalitytraits_0623.pdf)
 
 ::: {.callout-tip title="Abstract" collapse="true"}
-Little is known about how early-life circumstances may influence personality trait formation. I assess how exposure to rainfall shocks impacts core
-self-evaluations, a construct highly associated with socioeconomic success,
-amongst young adults in Peru. I find high rainfall exposure in years 2-3 negatively affects scores. Additionally, high prenatal rainfall has a heterogeneous
-positive impact on scores, only affecting girls and those in the poorest households. Upon examining underlying mechanisms, I find that parents increase
-labour supply in response to higher rainfall, which has a negative impact
-on early-life social interaction and parent-child bonding, with no effects on
-material investments or children’s physical development. I also provide evidence that this mechanism operates heterogeneously for prenatal exposure,
-allowing parents to substitute for more work prior to birth, becoming more
-available in the household immediately after their child is born.
+Little is known about how early-life circumstances may influence personality trait formation. I assess how exposure to rainfall shocks impacts core self-evaluations, a construct highly associated with socioeconomic success, amongst young adults in Peru. I find high rainfall exposure in years 2-3 negatively affects scores. Additionally, high prenatal rainfall has a heterogeneous positive impact on scores, only affecting girls and those in the poorest households. Upon examining underlying mechanisms, I find that parents increase labour supply in response to higher rainfall, which has a negative impact on early-life social interaction and parent-child bonding, with no effects on material investments or children’s physical development. I also provide evidence that this mechanism operates heterogeneously for prenatal exposure, allowing parents to substitute for more work prior to birth, becoming more available in the household immediately after their child is born.
 :::
 
 -   Additional returns of extending the school day: Estimating sibling spillovers using a regression discontinuity design - *with Catherine Porter & Alan Sanchez*
@@ -39,7 +31,7 @@ available in the household immediately after their child is born.
 -   Identifying climate shocks in Young Lives communities: Estimating weather conditions using a global gridded time series \| Young Lives \| *with Marta Favara* [\[Report\]](https://www.younglives.org.uk/publications/identifying-climate-shocks-young-lives-communities-estimating-weather-conditions-using)
 
 ::: {.callout-tip title="Abstract" collapse="true"}
-A growing body of research examines how climatic variables such as precipitation and temperature and particularly exposure to adverse natural disasters (droughts, floods and storms) in early life can influence later life outcomes.  This Technical Note details the process of selecting, preparing and matching external data for climate variables to the locations of the communities the Young Lives study participants live in.  The authors select specific data on monthly total precipitation and average air temperature, using a global gridded terrestrial time series dataset.  This data matching widens the usefulness of the already rich demographic Young Lives dataset, allowing the impacts of climate on children and young adults across key stages of development to be quantified. The authors go on to detail the structure and content of the publicly archived dataset and how it may be used.
+A growing body of research examines how climatic variables such as precipitation and temperature and particularly exposure to adverse natural disasters (droughts, floods and storms) in early life can influence later life outcomes. This Technical Note details the process of selecting, preparing and matching external data for climate variables to the locations of the communities the Young Lives study participants live in. The authors select specific data on monthly total precipitation and average air temperature, using a global gridded terrestrial time series dataset. This data matching widens the usefulness of the already rich demographic Young Lives dataset, allowing the impacts of climate on children and young adults across key stages of development to be quantified. The authors go on to detail the structure and content of the publicly archived dataset and how it may be used.
 :::
 
 -   Selection and validation of socio-emotional skill measures in round 5 of the Young Lives survey \| Young Lives \| *with Catherine Porter, Marta Favara & Mark Mitchell*
