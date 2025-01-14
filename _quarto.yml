@@ -20,8 +20,27 @@ website:
             text: "Stata-to-LaTeX: Multi-panel esttab tables"
       - href: https://github.com/gerrymcquade
         icon: github
+  page-footer: 
+    background: light
+    right: 
+      - icon: twitter
+        href: "https://twitter.com/GerryMcQu"
+        #https://ab604.uk/how
+        target: _blank
+        #https://github.com/quarto-ext/fontawesome
+      - text: "{{< fa brands bluesky >}}"
+        href: "https://bsky.app/profile/gerrymcquade.bsky.social"
+        target: _blank
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/gerald-mcquade-63193b172/"
+        target: _blank
+      - icon: github
+        href: "https://github.com/gerrymcquade"
+        target: _blank
+      - text: "{{< ai orcid >}}"
+        href: "https://orcid.org/0009-0009-2438-0830"
+        target: _blank
       
-
 format:
   html:
     theme: minty

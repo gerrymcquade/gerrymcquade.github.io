@@ -6,33 +6,30 @@ about:
   template: trestles
   image-shape: round
   links:
-    - icon: envelope
-      text: Email
-      href: "mailto:g.mcquade1@lancaster.ac.uk"
-    - icon: file-text
-      text: CV
-      href: "https://gerrymcquade.github.io/cv/GM_cv.pdf"  
+    # - text: "{{< ai cv >}}"
+    #   href: "https://gerrymcquade.github.io/cv/GM_cv.pdf"
+      #https://github.com/quarto-dev/quarto-cli/discussions/2402
+    - icon: building
+      text: Young Lives
+      href: "https://www.younglives.org.uk/people/countryteams/gerald-mcquade"
+      target: _blank
     - icon: mortarboard
       text: LUMS
       href: "https://www.lancaster.ac.uk/lums/people/gerald-mcquade"
-    - icon: building
-      text: GRADE
-      href: "https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/"
-    - icon: twitter
-      text: Twitter
-      href: "https://twitter.com/GerryMcQu"
-    - icon: linkedin
-      text: LinkedIn
-      href: "https://www.linkedin.com/in/gerald-mcquade-63193b172/"
-    - icon: github
-      text: Github
-      href: "https://github.com/gerrymcquade"      
+      target: _blank
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: "https://scholar.google.com/citations?user=v4J6exkAAAAJ&hl=en&oi=sra"
+      target: _blank
+    # - icon: building
+    #   text: GRADE
+    #   href: "https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/"
+     
 ---
 
-Teaching Associate and PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade). My advisors are [Catherine Porter](https://sites.google.com/site/econcath/home) and [Saurabh Singhal](https://sites.google.com/site/singhalecon/Home).
+I am the Quantitative Research Officer for The Young Lives Research Hub on Climate Change and Environmental Shocks, based at the Oxford Department of International Development, University of Oxford. I am also a PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade), with an expected end date of March 2025. My advisers are [Catherine Porter](https://sites.google.com/site/econcath/home) and [Saurabh Singhal](https://sites.google.com/site/singhalecon/Home).
 
-My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts.
+My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts. I am also interested in the role of social protection programmes in mitigating the long-term effects of early life shock exposure, as well as investigating interactions with ongoing armed conflict and the COVID-19 pandemic.
 
-I was recently a visiting researcher with Grupo De Análisis para el Desarrollo, in Lima, Peru (see my [profile here](https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/)). Previously, I was a visiting researcher with Young Lives at the University of Oxford during Trinity & Summer Term 2023, hosted by [Marta Favara](https://sites.google.com/site/martafavara/).
+I have extensive teaching experience, including working as a Teaching Associate at Lancaster University, and have held visiting Researcher positions at GRADE in Lima, Peru ([Profile](https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/)) and at The Oxford Department of International Development, University of Oxford. Prior to beginning my PhD I worked in the public sector as a Statistical Officer with the UK Office for National Statistics and as a Research Intern at the University of Aberdeen.
 
-I will be on the job market in 2024-2025. You can view [my CV here](https://gerrymcquade.github.io/cv/GM_cv.pdf).
+You can view [my CV here](https://gerrymcquade.github.io/cv/GM_cv.pdf).
