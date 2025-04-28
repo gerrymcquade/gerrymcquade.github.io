@@ -1,7 +1,5 @@
 ---
 title: "Research"
-
-resources: "noncog_skills_rainfallshocks_Peru.pdf"
 ---
 
 #### Academic work
@@ -16,19 +14,19 @@ This paper investigates the impact of different survey administration methods on
 
 **Working papers**
 
--   Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [\[Draft\]](noncog_skills_rainfallshocks_Peru.pdf)
+-   Some people feel the rain; others just get wet: Early-life rainfall and personality trait formation in Peru [\[Draft\]](https://gerrymcquade.github.io/noncog_skills_rainfallshocks_Peru.pdf)
 
 ::: {.callout-tip title="Abstract" collapse="true"}
 Little is known about how early-life circumstances may influence personality trait formation. I assess how exposure to rainfall shocks impacts core self-evaluations, a construct highly associated with socioeconomic success, amongst young adults in Peru. I find high rainfall exposure in years 2-3 negatively affects scores. Additionally, high prenatal rainfall has a heterogeneous positive impact on scores, only affecting girls and those in the poorest households. Upon examining underlying mechanisms, I find that parents increase labour supply in response to higher rainfall, which has a negative impact on early-life social interaction and parent-child bonding, with no effects on material investments or children’s physical development. I also provide evidence that this mechanism operates heterogeneously for prenatal exposure, allowing parents to substitute for more work prior to birth, becoming more available in the household immediately after their child is born.
 :::
 
--   Grandmothers and Grandsons: Multigenerational effects of drought exposure in Peru [\[Draft\]](grandmothers_grandons_paper.pdf)
+-   Grandmothers and Grandsons: Multigenerational effects of drought exposure in Peru [\[Draft\]](https://gerrymcquade.github.io/grandmothers_grandsons_paper.pdf)
 
 ::: {.callout-tip title="Abstract" collapse="true"}
 This paper examines the multigenerational effects of maternal grandmothers' exposure to drought during pregnancy, using a unique cohort study of Peruvian children and their families. I find that drought exposure has a persistent negative impact on the health stock of their daughter and grandchildren. Grandchildren have a lower height-for-age, first apparent in early childhood and persisting through adolescence, with the height gap widening as they enter puberty. Additionally, grandchildren have lower early-life weight-for-age, however this effect diminishes as children age. The effect is strongest for grandsons, and isolated to grandmothers living in rural areas during exposure, with exposure in early pregnancy having the largest impact. The first generation are also affected, with mothers being shorter in stature in adulthood. Estimating the average controlled direct effect (ACDE), I find that mother's long-term health is the primary mediator for transmission across generations, although I cannot fully rule out other unobserved mechanisms.
 :::
 
--   Sibling Spillover Effects in Education: Evidence From a Public School Reform in Peru  - *with Catherine Porter & Alan Sanchez* [\[Draft\]](JEC_sibling_spillovers.pdf)
+-   Sibling Spillover Effects in Education: Evidence From a Public School Reform in Peru  - *with Catherine Porter & Alan Sanchez* [\[Draft\]](https://gerrymcquade.github.io/JEC_sibling_spillovers.pdf)
 
 ::: {.callout-tip title="Abstract" collapse="true"}
 We estimate sibling spillover effects on attainment from a national school-day extension reform in Peru. Using a regression discontinuity design based on school eligibility criteria, we estimate a positive effect of older siblings' increased schooling on younger sibling attainment, increasing test scores by 0.12 S.D. and 0.14 S.D. in reading and mathematics. At the extensive margin, siblings are also more likely to achieve an ``in-progress'' grade or above (5.4 p.p.). Positive spillover effects are primarily experienced by girls, with the largest effect being amongst sister-sister pairs, compared with a null effect for younger brothers. Our results indicate that evaluations which consider only the benefits for the targeted child could systematically understate the benefit-cost ratio of educational reforms. 
