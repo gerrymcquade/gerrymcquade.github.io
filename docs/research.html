@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,10 +31,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0e4a4b55bee7b06a5a8c78d9eebd7063.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
@@ -258,9 +258,9 @@ Abstract
 </section>
 <section id="conference-presentations" class="level4">
 <h4 class="anchored" data-anchor-id="conference-presentations">Conference Presentations</h4>
-<p><strong>2023 - 2024</strong></p>
+<p><strong>2023 - 2025</strong></p>
 <ul>
-<li>14th Bolivian Conference on Development Economics; Conferencia Internacional de Desarrollo Económico PUCP; 2nd International Conference on Development Economics; 36th European Society of Population Economics conference; 1st Welfare and Policy conference; Inaugural Essex PhD Conference in Applied Economics; NWSSDTP PhD Conference in Economics; Lancaster Applied Micro Workshop; 12th Summer School in Development Economics Workshop (<em>invited</em>)</li>
+<li>40th European Economic Association Congress; 14th Bolivian Conference on Development Economics; Conferencia Internacional de Desarrollo Económico PUCP; 2nd International Conference on Development Economics; 36th European Society of Population Economics conference; 1st Welfare and Policy conference; Inaugural Essex PhD Conference in Applied Economics; NWSSDTP PhD Conference in Economics; Lancaster Applied Micro Workshop; 12th Summer School in Development Economics Workshop (<em>invited</em>)</li>
 </ul>
 <p><strong>2019 - 2022</strong></p>
 <ul>
@@ -353,8 +353,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -465,7 +463,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {

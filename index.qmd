@@ -23,13 +23,12 @@ about:
     # - icon: building
     #   text: GRADE
     #   href: "https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/"
-     
 ---
 
-I am the Quantitative Research Officer for The Young Lives Research Hub on Climate Change and Environmental Shocks, based at the Oxford Department of International Development, University of Oxford. I am also a PhD candidate in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade), with an expected end date of March 2025. My advisers are [Catherine Porter](https://sites.google.com/site/econcath/home) and [Saurabh Singhal](https://sites.google.com/site/singhalecon/Home).
+I am the Quantitative Research Officer for The [Young Lives](https://www.younglives.org.uk/people/countryteams/gerald-mcquade) Research Hub on Climate Change and Environmental Shocks, based at the Oxford Department of International Development (ODID), University of Oxford. I recently completed my PhD in economics at [Lancaster University Management School](https://www.lancaster.ac.uk/lums/people/gerald-mcquade).
 
-My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts. I am also interested in the role of social protection programmes in mitigating the long-term effects of early life shock exposure, as well as investigating interactions with ongoing armed conflict and the COVID-19 pandemic.
+My research interests are in early childhood development and skill formation, and the socio-economic and health impacts of extreme climate and environmental shocks in low- and middle-income countries. I am also interested in the role of social protection programmes in mitigating the long-term effects of early life shock exposure, as well as investigating interactions with ongoing armed conflict and the COVID-19 pandemic.
 
-I have extensive teaching experience, including working as a Teaching Associate at Lancaster University, and have held visiting Researcher positions at GRADE in Lima, Peru ([Profile](https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/)) and at The Oxford Department of International Development, University of Oxford. Prior to beginning my PhD I worked in the public sector as a Statistical Officer with the UK Office for National Statistics and as a Research Intern at the University of Aberdeen.
+I previously worked as a Teaching Associate at Lancaster University, and have held visiting Researcher positions at GRADE and the University of Oxford. Prior to my PhD I worked as a Statistical Officer with the UK Office for National Statistics and as a Research Assistant with HERU at the University of Aberdeen. I also hold an MSc and MA in Economics from the University of Edinburgh and Heriot Watt University, respectively.
 
 You can view [my CV here](https://gerrymcquade.github.io/cv/GM_cv.pdf).

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,10 +30,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-0e4a4b55bee7b06a5a8c78d9eebd7063.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
@@ -119,6 +119,7 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-entity">
     <img src="avatar.jpeg" class="about-image
   round " style="height: 20em; width: 20em;">
+<header id="title-block-header" class="quarto-title-block"></header>
     <div class="about-links">
   <a href="https://www.younglives.org.uk/people/countryteams/gerald-mcquade" class="about-link" rel="" target="_blank">
     <i class="bi bi-building"></i>
@@ -134,9 +135,9 @@ ul.task-list li input[type="checkbox"] {
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>I am the Quantitative Research Officer for The Young Lives Research Hub on Climate Change and Environmental Shocks, based at the Oxford Department of International Development, University of Oxford. I am also a PhD candidate in economics at <a href="https://www.lancaster.ac.uk/lums/people/gerald-mcquade">Lancaster University Management School</a>, with an expected end date of March 2025. My advisers are <a href="https://sites.google.com/site/econcath/home">Catherine Porter</a> and <a href="https://sites.google.com/site/singhalecon/Home">Saurabh Singhal</a>.</p>
-<p>My research interests are in early childhood development and skill formation, the socio-economic impacts of climate and environmental shocks, and the interaction between these two processes in low and middle income contexts. I am also interested in the role of social protection programmes in mitigating the long-term effects of early life shock exposure, as well as investigating interactions with ongoing armed conflict and the COVID-19 pandemic.</p>
-<p>I have extensive teaching experience, including working as a Teaching Associate at Lancaster University, and have held visiting Researcher positions at GRADE in Lima, Peru (<a href="https://www.grade.org.pe/en/investigadores/personal/gerald-mcquade/">Profile</a>) and at The Oxford Department of International Development, University of Oxford. Prior to beginning my PhD I worked in the public sector as a Statistical Officer with the UK Office for National Statistics and as a Research Intern at the University of Aberdeen.</p>
+<p>I am the Quantitative Research Officer for The <a href="https://www.younglives.org.uk/people/countryteams/gerald-mcquade">Young Lives</a> Research Hub on Climate Change and Environmental Shocks, based at the Oxford Department of International Development (ODID), University of Oxford. I recently completed my PhD in economics at <a href="https://www.lancaster.ac.uk/lums/people/gerald-mcquade">Lancaster University Management School</a>.</p>
+<p>My research interests are in early childhood development and skill formation, and the socio-economic and health impacts of extreme climate and environmental shocks in low- and middle-income countries. I am also interested in the role of social protection programmes in mitigating the long-term effects of early life shock exposure, as well as investigating interactions with ongoing armed conflict and the COVID-19 pandemic.</p>
+<p>I previously worked as a Teaching Associate at Lancaster University, and have held visiting Researcher positions at GRADE and the University of Oxford. Prior to my PhD I worked as a Statistical Officer with the UK Office for National Statistics and as a Research Assistant with HERU at the University of Aberdeen. I also hold an MSc and MA in Economics from the University of Edinburgh and Heriot Watt University, respectively.</p>
 <p>You can view <a href="https://gerrymcquade.github.io/cv/GM_cv.pdf">my CV here</a>.</p>
 
 
@@ -218,8 +219,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -330,7 +329,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
